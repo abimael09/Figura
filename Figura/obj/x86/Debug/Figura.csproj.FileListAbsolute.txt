@@ -1,0 +1,15 @@
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\Figura\Figura\bin\Debug\Figura.exe
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\Figura\Figura\bin\Debug\Figura.pdb
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\Figura\Figura\obj\x86\Debug\Figura.exe
+G:\DOCUMENTOS (TI) CURSO_2018.2\LINGUAGEM DE PROGRAMAÇÃO III - C#\Figura\Figura\obj\x86\Debug\Figura.pdb
+C:\Users\Family\Documents\Visual Studio 2022\Figura\Figura\obj\x86\Debug\Figura.csproj.AssemblyReference.cache
+C:\Users\Family\Documents\Visual Studio 2022\Figura\Figura\obj\x86\Debug\Figura.csproj.CoreCompileInputs.cache
+C:\Users\Family\Documents\Visual Studio 2022\Figura\Figura\obj\x86\Debug\Figura.exe
+C:\Users\Family\Documents\Visual Studio 2022\Figura\Figura\obj\x86\Debug\Figura.pdb
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\Figura\Figura\obj\x86\Debug\Figura.csproj.AssemblyReference.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\Figura\Figura\obj\x86\Debug\Figura.csproj.CoreCompileInputs.cache
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\Figura\Figura\obj\x86\Debug\Figura.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\Figura\Figura\obj\x86\Debug\Figura.pdb
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\Figura\Figura\bin\Debug\Figura.exe.config
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\Figura\Figura\bin\Debug\Figura.exe
+C:\Users\Family\OneDrive\Documentos\Visual Studio 2022\Figura\Figura\bin\Debug\Figura.pdb
